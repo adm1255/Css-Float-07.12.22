@@ -1,0 +1,15 @@
+.kanat{
+    background: red;
+    float: left;
+}
+
+.work{
+    background: yellow;
+    float: right;
+}
+
+.you{
+    background: black;
+    color: aliceblue;
+    clear: both;
+}
